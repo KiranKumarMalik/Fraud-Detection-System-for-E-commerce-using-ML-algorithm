@@ -2,7 +2,7 @@
 
 Welcome to the **E-commerce Fraud Detection** repository! This project aims to address the growing concern of fraudulent activities in online marketplaces. By leveraging machine learning, this system helps identify potential fraudulent transactions, showcasing the impact of data science on enhancing security in e-commerce platforms.
 
-![Capture](https://github.com/user-attachments/assets/59e77592-6324-4952-92a5-8c31eb114f5a)
+![Capture](https://github.com/KiranKumarMalik/Fraud-Detection-System-for-E-commerce-using-ML-algorithm/blob/1b76ca79736a696f85fdbeacf8d29a201cf5ee90/ss/home.png)
 
 ## 📋 Contents
 
