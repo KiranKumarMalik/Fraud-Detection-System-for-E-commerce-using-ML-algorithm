@@ -6,7 +6,7 @@ Welcome to the **E-commerce Fraud Detection** repository! This project aims to a
 
 ## Models Visualizations
 <p align="center">
-  <img src="https://github.com/KiranKumarMalik/Fraud-Detection-System-for-E-commerce-using-ML-algorithm/blob/9c67b684fcea8d2eb62f2b936d36967d4000537f/ss/Screenshot%202025-03-25%20114442.png" width="200">
+  <img src="https://github.com/KiranKumarMalik/Fraud-Detection-System-for-E-commerce-using-ML-algorithm/blob/9c67b684fcea8d2eb62f2b936d36967d4000537f/ss/Screenshot%202025-03-25%20114442.png" width="400">
   <img src="https://github.com/KiranKumarMalik/Fraud-Detection-System-for-E-commerce-using-ML-algorithm/blob/9c67b684fcea8d2eb62f2b936d36967d4000537f/ss/Screenshot%202025-03-25%20114455.png" width="200">
   <img src="https://github.com/KiranKumarMalik/Fraud-Detection-System-for-E-commerce-using-ML-algorithm/blob/9c67b684fcea8d2eb62f2b936d36967d4000537f/ss/Screenshot%202025-03-25%20114509.png" width="200">
   <img src="https://github.com/KiranKumarMalik/Fraud-Detection-System-for-E-commerce-using-ML-algorithm/blob/9c67b684fcea8d2eb62f2b936d36967d4000537f/ss/Screenshot%202025-03-25%20114526.png" width="200">
