@@ -1,16 +1,16 @@
 /* Background Image */
 body {
-    background-image: url('https://images.pexels.com/photos/3769747/pexels-photo-3769747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url('https://www.assiduus.com/blog/wp-content/uploads/2023/03/Flipkart.jpg');
     background-size: cover;
     background-attachment: fixed;
-    color: #f8f9fa;
+    color: #686a6b;
     font-family: Arial, sans-serif;
 }
 
 /* Container and Card Style */
 .container {
     max-width: 900px;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0.5, 0.5, 0.5, 0.5);
     padding: 40px;
     margin-top: 60px;
     border-radius: 10px;
@@ -20,13 +20,13 @@ body {
 h1 {
     text-align: center;
     font-weight: bold;
-    color: #ffd700;
+    color: #e9f003;
     margin-bottom: 20px;
 }
 
 h2 {
     text-align: center;
-    color: #ffc107;
+    color: #e9f003;
     margin-top: 20px;
 }
 
@@ -70,7 +70,7 @@ h2 {
 
 label {
     font-weight: bold;
-    color: #ffc107;
+    color: #e9f003;
 }
 
 /* Animation for Prediction Result */
@@ -92,7 +92,7 @@ fieldset {
 }
 
 legend {
-    color: #ffc107;
+    color: #e9f003;
     font-weight: bold;
 }
 
