@@ -46,13 +46,13 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Md-Emon-Hasan/ML-Project-E-commerce-Fraud-Detection.git
+   git clone https://github.com/KiranKumarMalik/Fraud-Detection-System-for-E-commerce-using-ML-algorithm.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd ML-Project-E-commerce-Fraud-Detection
+   cd Fraud-Detection-System-for-E-commerce-using-ML-algorithm
    ```
 
 3. **Create and activate a virtual environment:**
@@ -201,10 +201,9 @@ This repository is licensed under the [MIT License](https://opensource.org/licen
 
 ## 📬 Contact
 
-- **Email:** [iconicemon01@gmail.com](mailto:iconicemon01@gmail.com)
-- **WhatsApp:** [+8801834363533](https://wa.me/8801834363533)
-- **GitHub:** [Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)
-- **LinkedIn:** [Md Emon Hasan](https://www.linkedin.com/in/md-emon-hasan)
-- **Facebook:** [Md Emon Hasan](https://www.facebook.com/mdemon.hasan2001/)
+- **Email:** [malikkiran413@gmail.com](mailto:malikkiran413@gmail.com)
+- **WhatsApp:** [7848051078](https://wa.me/7848051078)
+- **GitHub:** [Kiran Kumar Malik](https://github.com/KiranKumarMalik)
+- **LinkedIn:** [Kiran Kumar Malik](https://www.linkedin.com/in/kirankm7/)
 
 ---
